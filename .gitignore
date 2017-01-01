@@ -1,0 +1,3 @@
+*.zip
+*.avro
+.DS_Store
